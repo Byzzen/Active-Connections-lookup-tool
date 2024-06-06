@@ -1,6 +1,9 @@
 # Active-Connections-lookup-tool
 This powershell scripts gets active connections and presents a possibillity to lookup the information associated with the IP
 
+!!!! REMEMBER THAT THIS SCRIPT USES AN API WITH LIMITS!
+
+
 The IP Address Lookup Tool is a PowerShell script with a graphical interface that allows users to retrieve information about IP addresses. It performs the following tasks:
 
 Display Active Connections:
@@ -16,3 +19,4 @@ Run the script.
 A graphical window will appear with a list of active IP connections.
 Click on an IP address to perform the lookup.
 The tool displays relevant information about the IP address.
+
